@@ -1,0 +1,11 @@
+.afp*
+.DS_Store
+.AppleDouble
+wp-content
+.docker*
+.nginx
+container
+db
+*.yml
+phpunit
+tests

@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+input[name$="_state"]:disabled, label[for$="_state"].disabled {
+	display: none;
+	visibility: hidden;
+}
+
